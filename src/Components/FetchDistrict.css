@@ -1,0 +1,37 @@
+.form-select {
+  width: 300px !important;
+  height: 40px !important;
+}
+
+.dropdown {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.btn {
+  width: 140px;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+}
+
+.dd1:hover,
+.dd2:hover {
+  border: 3px solid greenyellow;
+}
+
+.new {
+  width: 400px;
+  margin-top: -150px;
+  margin-left: 350px;
+}
+
+.heading {
+  color: blueviolet;
+  margin: auto;
+  width: 400px;
+}
